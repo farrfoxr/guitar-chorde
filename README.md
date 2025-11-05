@@ -1,7 +1,8 @@
 # 🎸 Guitar Chorde — Real-Time Chord Classifier
 
-**See the Colab Code (2024):** https://colab.research.google.com/drive/1fTx4zSR8LK19-8ZfGxEN0MEhJCFuucrT?usp=sharing
-**See My Redo Of the Project (2025):** https://colab.research.google.com/drive/1TQb4J1GCXRCfxpnEg2oZ-uDNzExihbKc?usp=sharing
+- **See the Colab Code (2024):** https://colab.research.google.com/drive/1fTx4zSR8LK19-8ZfGxEN0MEhJCFuucrT?usp=sharing
+
+- **See My Redo Of the Project (2025):** https://colab.research.google.com/drive/1TQb4J1GCXRCfxpnEg2oZ-uDNzExihbKc?usp=sharing
 Guitar Chorde is a real-time chord classification tool that identifies complex chords from audio input using a custom CNN. It supports major, minor, major7, and minor7 chords across all 12 root notes.
 
 ---
